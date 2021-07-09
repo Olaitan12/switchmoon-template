@@ -24,45 +24,45 @@ export class ServicesComponent implements OnInit {
         {
             icon: `flaticon-bank`,
             title: `Banking`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            paragraph: `Solutions Provided: Core Banking and Value-Added Services (Mobile Banking App, USSD Banking etc), Sales Automation.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-manufacturing`,
             title: `Manufacturing`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            paragraph: `Solutions/Services Provided: Payroll Application, Office/Process Automation.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-oil-1`,
-            title: `Oil And Gas`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            title: `Management Set-up`,
+            paragraph: `Sales Automation, Retail Management solution, Application Program interface, e-Commerce channel, payment gateway integration.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-antivirus`,
-            title: `Network Assessment`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            title: `Network Gaming`,
+            paragraph: `Solutions/Services Provided: CRM solution, IP Telephony, LAN Cabling, Application Integration, Consulting.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
-        {
-            icon: `flaticon-keywords`,
-            title: `Host & End Point`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
-            detailsLink: `services-details`,
-            btnText: `READ MORE`
-        },
-        {
-            icon: `flaticon-protection`,
-            title: `Cloud & Virtualization`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
-            detailsLink: `services-details`,
-            btnText: `READ MORE`
-        }
+        // {
+        //     icon: `flaticon-keywords`,
+        //     title: `Host & End Point`,
+        //     paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+        //     detailsLink: `services-details`,
+        //     btnText: `READ MORE`
+        // },
+        // {
+        //     icon: `flaticon-protection`,
+        //     title: `Cloud & Virtualization`,
+        //     paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+        //     detailsLink: `services-details`,
+        //     btnText: `READ MORE`
+        // }
     ]
 
     servicesSlides: OwlOptions = {

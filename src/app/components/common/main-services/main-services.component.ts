@@ -41,112 +41,112 @@ export class MainServicesComponent implements OnInit {
 
     sectionTitle = [
         {
-            title: `Expert Support to Enhance Your Cyber Defense`,
-            paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
+            title: `Expert Support to Enhance Your Capabilities`,
+            paragraph: `Our broad range of services enables us to take on projects starting from the creation of functional specifications, through design, implementation and testing, to manual and help file production, user training and support. `
         }
     ]
-    singleMainServices = [
-        {
-			title: `Threat Detection Standard Service`,
-			paragraphList: [
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				},
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				}
-			],
-            buttonLink: `services-details`,
-            buttonText: `READ MORE`,
-            img: `assets/img/services/services-img1.png`
-		},
-		{
-            title: `Incident Responder Standard Service`,
-			paragraphList: [
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				},
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				}
-			],
-            buttonLink: `services-details`,
-            buttonText: `READ MORE`,
-            img: `assets/img/services/services-img2.png`
-		},
-		{
-            title: `Cyber Security Standard Service`,
-			paragraphList: [
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				},
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				}
-			],
-            buttonLink: `services-details`,
-            buttonText: `READ MORE`,
-            img: `assets/img/services/services-img3.png`
-		},
-		{
-            title: `Disaster Planning Standard Service`,
-			paragraphList: [
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				},
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				}
-			],
-            buttonLink: `services-details`,
-            buttonText: `READ MORE`,
-            img: `assets/img/services/services-img4.png`
-		},
-		{
-            title: `Threat Hunter Standard Service`,
-			paragraphList: [
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				},
-				{
-					paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
-				}
-			],
-            buttonLink: `services-details`,
-            buttonText: `READ MORE`,
-            img: `assets/img/services/services-img5.png`
-        }
-    ]
+    // singleMainServices = [
+    //     {
+	// 		title: `Threat Detection Standard Service`,
+	// 		paragraphList: [
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			},
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			}
+	// 		],
+    //         buttonLink: `services-details`,
+    //         buttonText: `READ MORE`,
+    //         img: `assets/img/services/services-img1.png`
+	// 	},
+	// 	{
+    //         title: `Incident Responder Standard Service`,
+	// 		paragraphList: [
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			},
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			}
+	// 		],
+    //         buttonLink: `services-details`,
+    //         buttonText: `READ MORE`,
+    //         img: `assets/img/services/services-img2.png`
+	// 	},
+	// 	{
+    //         title: `Cyber Security Standard Service`,
+	// 		paragraphList: [
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			},
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			}
+	// 		],
+    //         buttonLink: `services-details`,
+    //         buttonText: `READ MORE`,
+    //         img: `assets/img/services/services-img3.png`
+	// 	},
+	// 	{
+    //         title: `Disaster Planning Standard Service`,
+	// 		paragraphList: [
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			},
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			}
+	// 		],
+    //         buttonLink: `services-details`,
+    //         buttonText: `READ MORE`,
+    //         img: `assets/img/services/services-img4.png`
+	// 	},
+	// 	{
+    //         title: `Threat Hunter Standard Service`,
+	// 		paragraphList: [
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			},
+	// 			{
+	// 				paragraph: `Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.`
+	// 			}
+	// 		],
+    //         buttonLink: `services-details`,
+    //         buttonText: `READ MORE`,
+    //         img: `assets/img/services/services-img5.png`
+    //     }
+    // ]
 
-    mainServicesSlides: OwlOptions = {
-		items: 1,
-		nav: true,
-		loop: true,
-		margin: 30,
-		dots: false,
-		autoplay: true,
-		animateIn: 'fadeIn',
-		animateOut: 'fadeOut',
-        autoplayTimeout: 4000,
-		autoplayHoverPause: true,
-		navText: [
-			"<i class='bx bx-left-arrow-alt'></i>",
-			"<i class='bx bx-right-arrow-alt'></i>"
-		],
-		responsive: {
-			0: {
-				items: 1
-			},
-			576: {
-				items: 1
-			},
-			768: {
-				items: 1
-			},
-			992: {
-				items: 1
-			}
-		}
-    }
+    // mainServicesSlides: OwlOptions = {
+	// 	items: 1,
+	// 	nav: true,
+	// 	loop: true,
+	// 	margin: 30,
+	// 	dots: false,
+	// 	autoplay: true,
+	// 	animateIn: 'fadeIn',
+	// 	animateOut: 'fadeOut',
+    //     autoplayTimeout: 4000,
+	// 	autoplayHoverPause: true,
+	// 	navText: [
+	// 		"<i class='bx bx-left-arrow-alt'></i>",
+	// 		"<i class='bx bx-right-arrow-alt'></i>"
+	// 	],
+	// 	responsive: {
+	// 		0: {
+	// 			items: 1
+	// 		},
+	// 		576: {
+	// 			items: 1
+	// 		},
+	// 		768: {
+	// 			items: 1
+	// 		},
+	// 		992: {
+	// 			items: 1
+	// 		}
+	// 	}
+    // }
 
 }

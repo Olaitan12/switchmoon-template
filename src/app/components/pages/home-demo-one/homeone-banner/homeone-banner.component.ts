@@ -15,8 +15,8 @@ export class HomeoneBannerComponent implements OnInit {
     mainBannerContent = [
         {
             bgImage: `assets/img/main-banner1.jpg`,
-            title: `We Protect The World's Most Sensitive Data`,
-            paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas lacus vel facilisis.`,
+            title: `SWITCHMOON`,
+            paragraph: `SWITCHMOON NIGERIA LIMITED is a diverse information technology professional Services Company founded on the vision of providing our clients with a competitive edge`,
             buttonBox: [
                 {
                     buttonText: `GET STARTED`,

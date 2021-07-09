@@ -15,16 +15,16 @@ export class PartnerComponent implements OnInit {
 
     partnerItem = [
         {
-            img: `assets/img/partner/partner-img1.png`
+            img: `assets/img/partner/dimago.png`
         },
         {
-            img: `assets/img/partner/partner-img2.png`
+            img: `assets/img/partner/frapapa.jpg`
         },
         {
-            img: `assets/img/partner/partner-img3.png`
+            img: `assets/img/partner/soloti.png`
         },
         {
-            img: `assets/img/partner/partner-img4.png`
+            img: `assets/img/partner/titan.png`
         }
     ]
 

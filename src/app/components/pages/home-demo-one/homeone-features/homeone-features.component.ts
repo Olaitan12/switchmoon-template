@@ -16,28 +16,28 @@ export class HomeoneFeaturesComponent implements OnInit {
         {
             icon: `flaticon-video-conference`,
             title: `Security Advisory`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            paragraph: `We aim to deliver the very highest levels of service, knowledge, experience, flexibility and reliability.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
             icon: `flaticon-call-center-agent`,
             title: `Technical Assurance`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            paragraph: `Service Beyond the Initial Project.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
             icon: `flaticon-cyber-security`,
             title: `Managed Services`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            paragraph: `Providing many options to reach us for customer support and following through in a timely manner gives evidence to our customers that we care about their business.`,
             link: `services-details`,
             linkText: `READ MORE`
         },
         {
             icon: `flaticon-hacker`,
             title: `Remote Workers`,
-            paragraph: `Lorem ipsum dolor sit amet, elit hi it adipiscing, sed do eiusmd tempor incididunt ut labore. Quis ipsum suspen disse ipsum.`,
+            paragraph: `We understand that our clients and potential customers have a choice in who provides them with IT services; therefore, we strive each day to earn the trust and confidence of our partners. `,
             link: `services-details`,
             linkText: `READ MORE`
         }
