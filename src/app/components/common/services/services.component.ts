@@ -16,7 +16,7 @@ export class ServicesComponent implements OnInit {
     sectionTitle = [
         {
             subTitle: `OUR SERVICES AREA`,
-            title: `We Offer Professional Security Solutions For Business`,
+            title: `Overview Of Our Core Capabilities`,
             paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
         }
     ]

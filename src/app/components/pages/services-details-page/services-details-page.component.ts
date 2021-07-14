@@ -17,18 +17,18 @@ export class ServicesDetailsPageComponent implements OnInit {
 
     pageTitle = [
         {
-            pageTitle: `Application Security Consulting`
+            pageTitle: `Our Capabilities`
         }
     ]
     servicesDetailsContent = [
         {
-            title: `Virtual Chief Information Security Officer Services`,
+            title: `SWITCHMOON NIGERIA LIMITED has strong background in core areas of ICT`,
             paragraphList: [
                 {
-                    paragraph: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.`
+                    paragraph: `We recognize that ICT have developed in shapes and forms that require a dynamic follow up, and an integrated approach is required to meet the needs of our clientele.`
                 },
                 {
-                    paragraph: `It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+                    paragraph: `Our team of professional consultants has been providing customized enterprise solutions to organizations in various capacities. Each business and organization is dynamic and have unique requirements for their internal systems. To meet these needs, an "off-the-shelf" or "boxed" solution, at times, will not suffice, but a customized solution is what serves best. From concept to launch, we help businesses and organizations in the strategic planning, development, and implementation of their IT strategic goals. `
                 }
             ]
         }
