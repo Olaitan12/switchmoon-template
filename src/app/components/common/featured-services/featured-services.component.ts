@@ -16,21 +16,21 @@ export class FeaturedServicesComponent implements OnInit {
         {
             icon: `flaticon-security`,
             title: `Prioritization`,
-            paragraph: `Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            // paragraph: `Lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-antivirus`,
             title: `Threat Prediction`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            // paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         },
         {
             icon: `flaticon-automation`,
             title: `Automated Remediation`,
-            paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
+            // paragraph: `Lorem ipsum dolor sit amet,  adipiscing elit, sed do eiusmod tempor incididunt ut labore. Quis ipsum suspendisse.`,
             detailsLink: `services-details`,
             btnText: `READ MORE`
         }

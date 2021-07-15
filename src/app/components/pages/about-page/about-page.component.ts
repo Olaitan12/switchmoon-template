@@ -9,7 +9,7 @@ import { Title } from '@angular/platform-browser';
 export class AboutPageComponent implements OnInit {
 
     constructor( private titleService: Title ) {
-        this.titleService.setTitle('Naxai - About Us');
+        this.titleService.setTitle('Switchmoon - About Us');
     }
 
     ngOnInit(): void {

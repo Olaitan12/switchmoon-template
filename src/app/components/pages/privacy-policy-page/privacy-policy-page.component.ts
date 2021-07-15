@@ -9,7 +9,7 @@ import { Title } from '@angular/platform-browser';
 export class PrivacyPolicyPageComponent implements OnInit {
 
     constructor( private titleService: Title ) {
-        this.titleService.setTitle('Naxai - Privacy Policy');
+        this.titleService.setTitle('Switchmoon - Privacy Policy');
     }
 
     ngOnInit(): void {

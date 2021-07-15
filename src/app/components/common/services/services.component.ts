@@ -17,7 +17,7 @@ export class ServicesComponent implements OnInit {
         {
             subTitle: `OUR SERVICES AREA`,
             title: `Overview Of Our Core Capabilities`,
-            paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
+            // paragraph: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.`
         }
     ]
     singleServicesBox = [
