@@ -9,13 +9,13 @@ import { Title } from '@angular/platform-browser';
 export class ContactPageComponent implements OnInit {
 
     constructor( private titleService: Title ) {
-        this.titleService.setTitle('Naxai - Contact Us');
+        this.titleService.setTitle('Switchmoon - Contact Us');
     }
 
     ngOnInit(): void {
     }
 
-    submit(form){
+    submit(form: { name: any; email: any; number: any; subject: any; message: any; }){
         var name = form.name;
         console.log(name);
         
