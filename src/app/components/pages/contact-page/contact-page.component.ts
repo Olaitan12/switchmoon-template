@@ -15,7 +15,8 @@ export class ContactPageComponent implements OnInit {
     ngOnInit(): void {
     }
 
-    submit(form: { name: any; email: any; number: any; subject: any; message: any; }){
+    submit(form){
+        
         var name = form.name;
         console.log(name);
         
